@@ -4,6 +4,7 @@
       "id": 1,
       "name": "Evoleum",
       "url": "https://evoleum.fr",
+      "description": "Agence digitale anti-conformiste et créative, qui veut casser les codes et sortir du rang : \nPour vouloir oser, il faut d'abord oser vouloir. ",
       "pictures": {
         "full": "https://oz-storage.ams3.digitaloceanspaces.com/agence-osez_full.png"
       }
@@ -12,6 +13,7 @@
       "id": 2,
       "name": "Agence OZ",
       "url": "https://agence-osez.com",
+      "description": "Evoleum est née de la volonté de révolutionner la Beauté de l’intérieur, pour aller plus loin que la seule dimension esthétique.",
       "pictures": {
         "full": "https://ams3.digitaloceanspaces.com/oz-storage/evoleum_full.png"
       }
