@@ -4,21 +4,17 @@
       "id": 1,
       "name": "Evoleum",
       "url": "https://evoleum.fr",
-      "pictures": [
-        {
-          "full": "https://oz-storage.ams3.digitaloceanspaces.com/agence-osez_full.png"
-        }
-      ]
+      "pictures": {
+        "full": "https://oz-storage.ams3.digitaloceanspaces.com/agence-osez_full.png"
+      }
     },
     {
       "id": 2,
       "name": "Agence OZ",
       "url": "https://agence-osez.com",
-      "pictures": [
-        {
-          "full": "https://ams3.digitaloceanspaces.com/oz-storage/evoleum_full.png"
-        }
-      ]
+      "pictures": {
+        "full": "https://ams3.digitaloceanspaces.com/oz-storage/evoleum_full.png"
+      }
     }
   ],
   "profile": {
