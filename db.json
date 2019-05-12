@@ -1,0 +1,14 @@
+{
+  "servers": [
+    {
+      id: 1,
+      name: "Evoleum",
+      url: "https://evoleum.fr"
+    },
+    {
+      id: 2,
+      name: "Evoleum",
+      url: "https://agence-osez.com"
+    }
+  ]
+}
